@@ -1,0 +1,16 @@
+D:\Documenten\Inimco\Console\obj\Debug\net5.0\Console.csproj.AssemblyReference.cache
+D:\Documenten\Inimco\Console\obj\Debug\net5.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\Inimco\Console\obj\Debug\net5.0\Console.AssemblyInfoInputs.cache
+D:\Documenten\Inimco\Console\obj\Debug\net5.0\Console.AssemblyInfo.cs
+D:\Documenten\Inimco\Console\obj\Debug\net5.0\Console.csproj.CoreCompileInputs.cache
+D:\Documenten\Inimco\Console\bin\Debug\net5.0\Console.exe
+D:\Documenten\Inimco\Console\bin\Debug\net5.0\Console.deps.json
+D:\Documenten\Inimco\Console\bin\Debug\net5.0\Console.runtimeconfig.json
+D:\Documenten\Inimco\Console\bin\Debug\net5.0\Console.runtimeconfig.dev.json
+D:\Documenten\Inimco\Console\bin\Debug\net5.0\Console.dll
+D:\Documenten\Inimco\Console\bin\Debug\net5.0\ref\Console.dll
+D:\Documenten\Inimco\Console\bin\Debug\net5.0\Console.pdb
+D:\Documenten\Inimco\Console\obj\Debug\net5.0\Console.dll
+D:\Documenten\Inimco\Console\obj\Debug\net5.0\ref\Console.dll
+D:\Documenten\Inimco\Console\obj\Debug\net5.0\Console.pdb
+D:\Documenten\Inimco\Console\obj\Debug\net5.0\Console.genruntimeconfig.cache
